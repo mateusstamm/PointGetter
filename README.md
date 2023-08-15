@@ -1,6 +1,6 @@
 # PointGetter
 
-O PointGetter é um aplicativo multiplataforma desenvolvido em Flutter que permite obter informações detalhadas de posição geográfica utilizando o GPS do seu smartphone. Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) de Mateus Stamm, do bacharelado de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), campus Medianeira.
+O PointGetter é um aplicativo multiplataforma desenvolvido em Flutter que permite obter informações detalhadas de posição geográfica utilizando o GPS do seu smartphone. Este projeto faz parte do meu Trabalho de Conclusão de Curso (TCC), referente ao bacharelado de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), campus Medianeira.
 
 O aplicativo permite a obtenção de informações como latitude, longitude, azimuth, svid, elevation, frequência, precisão, altitude, velocidade, direção, entre outros, com o objetivo de comparar os dados obtidos com a real posição do usuário.
 
@@ -62,7 +62,7 @@ O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM NENHUM TIPO DE GARAN
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato com Mateus Stamm:
+Para qualquer dúvida ou sugestão, entre em contato comigo:
 
 - Email: mateus.stamm@email.com
 - LinkedIn: [Mateus Stamm](https://www.linkedin.com/in/mateusstamm/)
